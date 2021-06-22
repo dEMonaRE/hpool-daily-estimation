@@ -3,7 +3,9 @@ hpool-daily-estimation
 
 
 Install tampermonkey for your browser
+
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+
 https://addons.mozilla.org/tr/firefox/addon/tampermonkey/
 
 Add user script to hpool.js
